@@ -1,2 +1,2 @@
 # Projects
-My first repository with my projects in python and c++
+My first repository with my projects in c++
